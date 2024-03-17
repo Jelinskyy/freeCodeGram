@@ -25,7 +25,7 @@
             <div class="container">
                 <a class="navbar-brand d-flex" href="{{ url('/') }}">
                     <div  class="pr-3" style="border-right: 1px solid #333;"><img src="/svg/free-code-camp-logo.svg"  style="height:20px;"></div>
-                    <div  class="pl-3">expensiveCodeGram</div>
+                    <div  class="pl-3">freeCodeGram</div>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
